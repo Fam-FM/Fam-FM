@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Active Directory Home Lab] (https://github.com/Fam-FM)</b>
-- <b>[FIM] (https://github.com/Fam-FM)</b>
-- <b>[Vulnerability Management Home Lab] (https://github.com/Fam-FM)</b>
-- <b>[SIEM Home Lab] (https://github.com/Fam-FM)</b>
+[Active Directory Home Lab](https://github.com/Fam-FM)
+[FIM](https://github.com/Fam-FM)
+[Vulnerability Management Home Lab](https://github.com/Fam-FM)
+[SIEM Home Lab](https://github.com/Fam-FM)
 
 <h2> 🤳 Connect with me:</h2>
 
