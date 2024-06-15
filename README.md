@@ -15,7 +15,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/FAMware_FM
-[youtube]: https://www.youtube.com/FAMware
+[youtube]: https://www.youtube.com/channel/UC8kULyKT7q8RjpSCrt6sh_w
 [instagram]: https://www.instagram.com/frankieamal
 [linkedin]: https://www.linkedin.com/in/frankie-m-6464abc/
 
