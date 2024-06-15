@@ -1,11 +1,24 @@
-<h1>Hi, I'm Frank! <br/><a href="https://www.linkedin.com/in/frankie-m-6464abc/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Frankie! <br/><a href="https://www.linkedin.com/in/frankie-m-6464abc/">Cybersecurity Professional & Programmer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/Fam-FM/LABURL)
-- [FIM](https://github.com/Fam-FM/LABURL)
-- [Vulnerability Management Home Lab](https://github.com/Fam-FM/LABURL)
-- [SIEM Home Lab](https://github.com/Fam-FM/LABURL)
+- <b>Active Directory Home Lab</b>
+  - [Active Directory Bulk User Creation](https://github.com/Fam-FM/LABURL)
+- <b>FIM (File Integrity Monitor)</b>
+  - [Confirming File Integrity On Home PCs Using Wazuh](https://github.com/Fam-FM/LABURL)
+- <b>Vulnerability Management Home Lab</b>
+  - [Running Scans & Remediating Vulnerabilities On Home PCs Using Wazuh](https://github.com/Fam-FM/LABURL)
+- <b>SIEM Home Lab</b>
+  - [Performing Log Analysis On Home PCs Using Wazuh](https://github.com/Fam-FM/LABURL)
+
+<h2>👨‍💻 Certifications:</h2>
+
+- [CompTIA CySA+](https://github.com/Fam-FM/LABURL) <b><i>(Expected 8/24)</b></i>
+- [CCFA-200: CrowdStrike Certified Falcon Administrator](https://github.com/Fam-FM/LABURL)
+- [MS-500: Microsoft 365 Security Administration](https://github.com/Fam-FM/LABURL)
+- [CompTIA Security+](https://github.com/Fam-FM/LABURL)
+- [CompTIA Network+](https://github.com/Fam-FM/LABURL)
+- [CompTIA A+](https://github.com/Fam-FM/LABURL)
 
 <h2>👨‍💻 Coding Projects:</h2>
 
