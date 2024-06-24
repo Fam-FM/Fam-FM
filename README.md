@@ -14,11 +14,11 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - [CompTIA CySA+](https://github.com/Fam-FM/LABURL) <b><i>(Expected 8/24)</b></i>
-- [CCFA-200: CrowdStrike Certified Falcon Administrator](https://github.com/Fam-FM/LABURL)
-- [MS-500: Microsoft 365 Security Administration](https://github.com/Fam-FM/LABURL)
-- [CompTIA Security+](https://github.com/Fam-FM/LABURL)
-- [CompTIA Network+](https://github.com/Fam-FM/LABURL)
-- [CompTIA A+](https://github.com/Fam-FM/LABURL)
+- [CCFA-200: CrowdStrike Certified Falcon Administrator](https://imgur.com/iheHQmo)
+- [MS-500: Microsoft 365 Security Administration](https://imgur.com/GZ6g8gS)
+- [CompTIA Security+](https://imgur.com/wr3A0su)
+- [CompTIA Network+](https://imgur.com/sbCluZM)
+- [CompTIA A+](https://imgur.com/3RgQhdI)
 
 <h2>👨‍💻 Coding Projects:</h2>
 
