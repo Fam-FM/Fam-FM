@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Bulk User Creation](https://github.com/Fam-FM/LABURL)
+  - [Active Directory Bulk User Creation](https://github.com/Fam-FM/ActiveDirectoryLab)
 - <b>FIM (File Integrity Monitor)</b>
   - [Confirming File Integrity On Home PCs Using Powershell](https://github.com/Fam-FM/FIM)
 - <b>Vulnerability Management Home Lab</b>
