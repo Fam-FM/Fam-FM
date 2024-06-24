@@ -7,7 +7,7 @@
 - <b>FIM (File Integrity Monitor)</b>
   - [Confirming File Integrity On Home PCs Using Powershell](https://github.com/Fam-FM/FIM)
 - <b>Vulnerability Management Home Lab</b>
-  - [Running Scans & Remediating Vulnerabilities On Home PCs Using OpenVAS](https://github.com/Fam-FM/LABURL)
+  - [Running Scans & Remediating Vulnerabilities On Home PCs Using OpenVAS](https://github.com/Fam-FM/VulnerabilityLab)
 - <b>SIEM Home Lab</b>
   - [Performing Log Analysis Using Azure Sentinel](https://github.com/Fam-FM/SIEMLab)
 
