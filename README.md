@@ -9,7 +9,7 @@
 - <b>Vulnerability Management Home Lab</b>
   - [Running Scans & Remediating Vulnerabilities On Home PCs Using Wazuh](https://github.com/Fam-FM/LABURL)
 - <b>SIEM Home Lab</b>
-  - [Performing Log Analysis On Home PCs Using Wazuh](https://github.com/Fam-FM/LABURL)
+  - [Performing Log Analysis Using Azure Sentinel](https://github.com/Fam-FM/SIEMLab)
 
 <h2>👨‍💻 Certifications:</h2>
 
