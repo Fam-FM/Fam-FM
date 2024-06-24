@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Bulk User Creation](https://github.com/Fam-FM/LABURL)
 - <b>FIM (File Integrity Monitor)</b>
-  - [Confirming File Integrity On Home PCs Using Powershell](https://github.com/Fam-FM/LABURL)
+  - [Confirming File Integrity On Home PCs Using Powershell](https://github.com/Fam-FM/FIM)
 - <b>Vulnerability Management Home Lab</b>
   - [Running Scans & Remediating Vulnerabilities On Home PCs Using OpenVAS](https://github.com/Fam-FM/LABURL)
 - <b>SIEM Home Lab</b>
