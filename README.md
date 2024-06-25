@@ -25,7 +25,7 @@
 - [Linux Database](https://github.com/Fam-FM/LinuxDatabase/tree/main/Files)
 - [C++ Album](https://github.com/Fam-FM/C-Album/tree/main/Files)
 - [Python Keylogger](https://github.com/Fam-FM/PythonKeylogger/blob/main/Keylogger.py)
-- [GoLang Function](https://github.com/Fam-FM/LABURL)
+- [GoLang Function](https://github.com/Fam-FM/GoLangFunction/blob/main/Main.go)
 
 <h2> 🤳 Connect with me:</h2>
 
