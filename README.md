@@ -23,7 +23,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - [Linux Database](https://github.com/Fam-FM/LinuxDatabase/tree/main/Files)
-- [C++ Album](https://github.com/Fam-FM/LABURL)
+- [C++ Album](https://github.com/Fam-FM/C-Album/tree/main/Files)
 - [Python BMI](https://github.com/Fam-FM/LABURL)
 - [GoLang Function](https://github.com/Fam-FM/LABURL)
 
