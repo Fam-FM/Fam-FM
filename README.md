@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [CompTIA CySA+](https://github.com/Fam-FM/LABURL) <b><i>(Expected 8/24)</b></i>
+- [CompTIA CySA+](https://imgur.com/a/cysa-certification-kuQ3dEy)
 - [CCFA-200: CrowdStrike Certified Falcon Administrator](https://imgur.com/iheHQmo)
 - [MS-500: Microsoft 365 Security Administration](https://imgur.com/GZ6g8gS)
 - [CompTIA Security+](https://imgur.com/wr3A0su)
@@ -34,10 +34,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/FAMware_FM
-[youtube]: https://www.youtube.com/channel/UC8kULyKT7q8RjpSCrt6sh_w
-[instagram]: https://www.instagram.com/frankieamal
-[linkedin]: https://www.linkedin.com/in/frankie-m-6464abc/
+[Twitter]: https://twitter.com/FAMware_FM
+[Youtube]: https://www.youtube.com/channel/UC8kULyKT7q8RjpSCrt6sh_w
+[Instagram]: https://www.instagram.com/frankieamal
+[Linkedin]: https://www.linkedin.com/in/frankie-m-6464abc/
 
 <!--
 **Fam-FM/Fam-FM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
