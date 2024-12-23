@@ -11,7 +11,7 @@
 - <b>SIEM Home Lab</b>
   - [Performing Log Analysis Using Azure Sentinel](https://github.com/Fam-FM/SIEMLab)
 - <b>SOC Home Lab</b>
-  -[Deployed a fully functional SOC home lab using open-source tools](https://github.com/Fam-FM/SOC-Home-Lab)
+  - [Deployed a fully functional SOC home lab using open-source tools](https://github.com/Fam-FM/SOC-Home-Lab)
 
 <h2>👨‍💻 Certifications:</h2>
 
