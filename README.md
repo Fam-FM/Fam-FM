@@ -13,7 +13,7 @@
 - <b>SOC Home Lab</b>
   - [Deployed a fully functional SOC home lab using open-source tools](https://github.com/Fam-FM/SOC-Home-Lab)
 
-<h2>📧 Certifications:</h2>
+<h2>🏆 Certifications:</h2>
 
 - [CompTIA CySA+](https://imgur.com/a/cysa-certification-kuQ3dEy)
 - [CCFA-200: CrowdStrike Certified Falcon Administrator](https://imgur.com/iheHQmo)
