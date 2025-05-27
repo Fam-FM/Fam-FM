@@ -15,7 +15,7 @@
 
 <h2>🏆 Certifications:</h2>
 
-- CISSP (Expected 5/2025)
+- CISSP (Expected 8/2025)
 - [CompTIA CySA+](https://imgur.com/a/cysa-certification-kuQ3dEy)
 - [CCFA-200: CrowdStrike Certified Falcon Administrator](https://imgur.com/iheHQmo)
 - [MS-500: Microsoft 365 Security Administration](https://imgur.com/GZ6g8gS)
